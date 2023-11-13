@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeasantMultiplication", "PeasantMultiplication.csproj", "{EEB6A854-9FC4-4BE1-B053-801A972AFCB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMultiply", "..\ArrayMultiply\ArrayMultiply.csproj", "{33154E80-ABEC-4693-B2C9-C7050A87BE49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEB6A854-9FC4-4BE1-B053-801A972AFCB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEB6A854-9FC4-4BE1-B053-801A972AFCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEB6A854-9FC4-4BE1-B053-801A972AFCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEB6A854-9FC4-4BE1-B053-801A972AFCB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33154E80-ABEC-4693-B2C9-C7050A87BE49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33154E80-ABEC-4693-B2C9-C7050A87BE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33154E80-ABEC-4693-B2C9-C7050A87BE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33154E80-ABEC-4693-B2C9-C7050A87BE49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F56EB0F-04C9-49D0-9EB6-4C698EC4A99D}
+	EndGlobalSection
+EndGlobal
