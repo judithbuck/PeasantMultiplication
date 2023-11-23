@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="BinaryMultiplication\**" />
+    <EmbeddedResource Remove="BinaryMultiplication\**" />
+    <None Remove="BinaryMultiplication\**" />
+  </ItemGroup>
+
 </Project>

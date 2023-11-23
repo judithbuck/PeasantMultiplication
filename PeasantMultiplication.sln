@@ -5,9 +5,15 @@ VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PeasantMultiplication", "PeasantMultiplication.csproj", "{EEB6A854-9FC4-4BE1-B053-801A972AFCB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMultiply", "..\ArrayMultiply\ArrayMultiply.csproj", "{33154E80-ABEC-4693-B2C9-C7050A87BE49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayMultiply", "ArrayMultiply\ArrayMultiply.csproj", "{33154E80-ABEC-4693-B2C9-C7050A87BE49}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryMultiplication", "BinaryMultiplication\BinaryMultiplication.csproj", "{1814F6FA-A02E-4738-89A8-B2317434A30A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinaryMultiplication", "BinaryMultiplication\BinaryMultiplication.csproj", "{48A5C510-77F7-4125-9420-2E54A5A6E996}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RussianPeasant", "RussianPeasant\RussianPeasant.csproj", "{DE199175-98AB-48C0-AD68-9711CD42E95A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Org Multiply", "Org Multiply\Org Multiply.csproj", "{A628FF5E-0D44-446B-B9D5-9E4924B54CC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OriginMultipctn", "OriginMultipctn\OriginMultipctn.csproj", "{114BDFE5-D68C-4274-8FB2-1C05AF919367}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +29,22 @@ Global
 		{33154E80-ABEC-4693-B2C9-C7050A87BE49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33154E80-ABEC-4693-B2C9-C7050A87BE49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33154E80-ABEC-4693-B2C9-C7050A87BE49}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1814F6FA-A02E-4738-89A8-B2317434A30A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1814F6FA-A02E-4738-89A8-B2317434A30A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1814F6FA-A02E-4738-89A8-B2317434A30A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1814F6FA-A02E-4738-89A8-B2317434A30A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A5C510-77F7-4125-9420-2E54A5A6E996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A5C510-77F7-4125-9420-2E54A5A6E996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A5C510-77F7-4125-9420-2E54A5A6E996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A5C510-77F7-4125-9420-2E54A5A6E996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE199175-98AB-48C0-AD68-9711CD42E95A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE199175-98AB-48C0-AD68-9711CD42E95A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE199175-98AB-48C0-AD68-9711CD42E95A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE199175-98AB-48C0-AD68-9711CD42E95A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A628FF5E-0D44-446B-B9D5-9E4924B54CC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A628FF5E-0D44-446B-B9D5-9E4924B54CC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A628FF5E-0D44-446B-B9D5-9E4924B54CC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A628FF5E-0D44-446B-B9D5-9E4924B54CC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{114BDFE5-D68C-4274-8FB2-1C05AF919367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{114BDFE5-D68C-4274-8FB2-1C05AF919367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{114BDFE5-D68C-4274-8FB2-1C05AF919367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{114BDFE5-D68C-4274-8FB2-1C05AF919367}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
